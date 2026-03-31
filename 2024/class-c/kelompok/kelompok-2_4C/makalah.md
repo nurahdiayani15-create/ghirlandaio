@@ -111,7 +111,7 @@ Pandangan ini juga di dukung oleh Ronald Barthes dalam bukunya Mythologies yang 
 
 2.2 Subtansi teknologi dalam persfektif hiperrealitas
 
-Di era pascamodern, teknologi tidak hanya berfungsi sebagai alat. Ia telah berubah menjadi perantara yang ikut mendefinisikan, membangun, dan terkadang menggantikan apa yang kita sebut realitas. Pemikiran ini berkaitan erat dengan karya Jean Baudrillard, filsuf Prancis yang banyak menelaah hubungan antara tanda, simbol, dan realitas dalam masyarakat postmodern. Lahir pada 20 Juni dan wafat 6 Juni 2007, Jean Baudrillard memberi kita konsep hiperrealitas yang sampai sekarang sering dipakai untuk menjelaskan dalam dunia bermedia tinggi.
+Di era pascamodern, teknologi tidak hanya berfungsi sebagai alat. Ia telah berubah menjadi perantara yang ikut mendefinisikan, membangun, dan terkadang menggantikan apa yang kita sebut realitas. Pemikiran ini berkaitan erat dengan buku Simuclara and Simulation karya Jean Baudrillard, filsuf Prancis yang banyak menelaah hubungan antara tanda, simbol, dan realitas dalam masyarakat postmodern. Lahir pada 20 Juni dan wafat 6 Juni 2007, Jean Baudrillard memberi kita konsep hiperrealitas yang sampai sekarang sering dipakai untuk menjelaskan dalam dunia bermedia tinggi.
 
 Dalam buku Simulacra dan Simulation, Baudrillard menggambarkan hiperrealitas sebagai kondisi di mana realitas "asli" sudah jarang muncul, yang kita temui adalah representasi semacam versi ulang yang lama-kelamaan menempati posisi realitas itu sendiri. Dia menulis bahwa "The simulacrum is never what hides the truth, it is truth that hides the fact that there is none. The simulacrum is true" (Baudrillard, 1981), maksudnya yaitu batas antara kebenaran dan simulasi telah runtuh sehingga simulasi itu sendiri diakui sebagai kenyataan.
 
@@ -156,6 +156,10 @@ Contoh nyata dapat ditemukan oada konten viral menngenai tempat wisata. Banyak d
 Namun, ketika pengunjung ddatang langsung ke lokasi, sering kali mereka menemukan kenyataan yang berbeda. Tempat wisata tersebut mungkin lebih ramai, kurang terawat, atau tidak seindah yang berada dividio dalam konten digital. Meskipun demikian, citra yang telah terbentuk dalam media sosial tetap memegaruhi persepsi banyak orang. Mereka cenderung lebih mempercayai representasi visual yang telah dikontruksi dibandingkan pengalaman nyata yang mereka alami sendiri. 
 
 Dalam perspektif hiperrealitas, kondisi ini menunjukkan bahwa simulasi yang dihasilkan oleh teknologi telah menggantikan realitas itu sendiri. Individu tidak lagi berinteraksi dengan kenyataan secara langsung, melainkan dengan citra yang telah dibentuk oleh media. Oleh karena itu, diperlukan kesadaran kritis dalam menyikapi informasi digital agar masyarakat tidak mudah terjebak dalam realitas semu yang dapat memengaruhi cara pandang dan pengambilan keputusan dalam kehidupan seharai-hari. 
+
+2.4 Bagaimana perbedaan teknologi sebagai mitos dan teknologi alat menggunakan pengalaman internal dan terpersonalisasi
+
+
 
 ## DAFTAR PUSTAKA 
 
